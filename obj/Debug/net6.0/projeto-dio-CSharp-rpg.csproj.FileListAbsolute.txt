@@ -1,0 +1,15 @@
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\bin\Debug\net6.0\projeto-dio-CSharp-rpg.exe
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\bin\Debug\net6.0\projeto-dio-CSharp-rpg.deps.json
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\bin\Debug\net6.0\projeto-dio-CSharp-rpg.runtimeconfig.json
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\bin\Debug\net6.0\projeto-dio-CSharp-rpg.dll
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\bin\Debug\net6.0\projeto-dio-CSharp-rpg.pdb
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\obj\Debug\net6.0\projeto-dio-CSharp-rpg.csproj.AssemblyReference.cache
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\obj\Debug\net6.0\projeto-dio-CSharp-rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\obj\Debug\net6.0\projeto-dio-CSharp-rpg.AssemblyInfoInputs.cache
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\obj\Debug\net6.0\projeto-dio-CSharp-rpg.AssemblyInfo.cs
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\obj\Debug\net6.0\projeto-dio-CSharp-rpg.csproj.CoreCompileInputs.cache
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\obj\Debug\net6.0\projeto-dio-CSharp-rpg.dll
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\obj\Debug\net6.0\refint\projeto-dio-CSharp-rpg.dll
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\obj\Debug\net6.0\projeto-dio-CSharp-rpg.pdb
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\obj\Debug\net6.0\projeto-dio-CSharp-rpg.genruntimeconfig.cache
+C:\workspace\dio-CSharp\projeto-dio-CSharp-rpg\obj\Debug\net6.0\ref\projeto-dio-CSharp-rpg.dll
